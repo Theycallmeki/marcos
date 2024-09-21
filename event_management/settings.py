@@ -25,7 +25,7 @@ SECRET_KEY = 'gvv(&d^k0f5^xgqa+#ct4sxcg5%&5q&k2d(!uek5m+qj#b^0#2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['marcos-4.onrender.com']
+ALLOWED_HOSTS = ['marcos-5.onrender.com']
 
 
 # Application definition
